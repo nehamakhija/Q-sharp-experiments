@@ -1,0 +1,13 @@
+# Build artifacts
+bin/
+obj/
+Documentation/Help/
+packages/
+src/simulation/Runtime/x64/
+*.obj
+*.dll
+*.pdb
+*.exe
+*.chm
+*.html
+Tests/build
